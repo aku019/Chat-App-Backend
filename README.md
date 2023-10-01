@@ -5,7 +5,7 @@
 - Web Sockets
 - API's in Graphql
 - Pub Sub with Graphql
-- Material UI
+- Exposure to Material UI
 - Appolo client
 - Prisma as ORM
 
