@@ -7,8 +7,17 @@
 - Pub Sub with Graphql
 - Material UI
 - Appolo client
+- Prisma as ORM
 
 P.S. This was deployed on Heroku, before they started to charge for it. The link that doesnt work anymore - [Link](https://sayandchat.herokuapp.com/)
+
+## Tech Stack
+
+- Express
+- Node
+- React
+- SQL(MySQL/Postgres)
+- Prisma
 
 ## How to run it on local
 
