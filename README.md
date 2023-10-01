@@ -26,6 +26,8 @@ npm run build
 
 ```
 
+Frontend would start on 3000 port and Backend on 4000. 
+
 
 
 ## The Application
