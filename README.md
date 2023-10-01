@@ -33,6 +33,7 @@ Frontend would start on 3000 port and Backend on 4000.
 
 ## The Application
 Sign Up then Log in and Chat with your friends just like Babar and Virat  :) 
+<br>
 <img width="922" alt="Screenshot 2023-10-01 at 10 24 38 PM" src="https://github.com/aku019/Chat-App-Backend/assets/39730533/1235d289-746e-4921-825c-b2384a2c7204">
 <img width="922" alt="Screenshot 2023-10-01 at 10 24 00 PM" src="https://github.com/aku019/Chat-App-Backend/assets/39730533/359aaa94-f068-46fc-97bd-78f06c1383da">
 
