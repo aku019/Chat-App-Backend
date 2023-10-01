@@ -3,9 +3,10 @@
 ## Learning Outcomes
 
 - Web Sockets
-- Graphql
-- Pub Sub
+- API's in Graphql
+- Pub Sub with Graphql
 - Material UI
+- Appolo client
 
 P.S. This was deployed on Heroku, before they started to charge for it. The link that doesnt work anymore - [Link](https://sayandchat.herokuapp.com/)
 
