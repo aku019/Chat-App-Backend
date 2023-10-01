@@ -1,8 +1,13 @@
-# Chat-App-Backend
+# Say Chat
 
-## Motivation and Learnign Outcomes
+## Learning Outcomes
 
-- I wanted to 
+- Web Sockets
+- Graphql
+- Pub Sub
+- Material UI
+
+P.S. This was deployed on Heroku, before they started to charge for it. The link that doesnt work anymore - [Link](https://sayandchat.herokuapp.com/)
 
 
 ## The Application
