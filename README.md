@@ -1,5 +1,9 @@
 # Chat-App-Backend
 
+## Motivation and Learnign Outcomes
+
+- I wanted to 
+
 
 ## The Application
 Sign up
