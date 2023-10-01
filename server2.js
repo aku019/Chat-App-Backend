@@ -9,7 +9,7 @@ import {makeExecutableSchema} from '@graphql-tools/schema'
 const port  = process.env.PORT || 4000
 
 
-// create express
+
 const app = express();
 
 const context = ({req})=>{
@@ -21,15 +21,15 @@ const context = ({req})=>{
 }
 
 const schema = makeExecutableSchema({typeDefs,resolvers})
-// create apollo server
+
 const apolloServer = new ApolloServer({schema,context });
 
-// apply middleware
+
 await apolloServer.start()
 apolloServer.applyMiddleware({ app,path:"/graphql" });
 
 const server = app.listen(port, () => {
-  // create and use the websocket server
+
   const wsServer = new WebSocketServer({
     server,
     path: '/graphql',

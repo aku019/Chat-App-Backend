@@ -24,7 +24,8 @@ const resolvers = {
             not:userId
           }
         }
-      })
+      });
+      console.log(users);
       return users
     },
     messagesByUser:async (_,{receiverId},{userId})=>{

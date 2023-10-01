@@ -1,7 +1,7 @@
 import { ApolloServer, gql } from 'apollo-server';
 import typeDefs  from './typeDefs.js';
 import resolvers from './resolvers.js';
-//import mysql from mysql
+import mysql from mysql
 import jwt from 'jsonwebtoken';
 
 
