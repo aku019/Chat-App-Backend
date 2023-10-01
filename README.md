@@ -43,12 +43,9 @@ Frontend would start on 3000 port and Backend on 4000.
 ## The Application
 Sign Up then Log in and Chat with your friends just like Babar and Virat  :) 
 <br>
-<img width="922" alt="Screenshot 2023-10-01 at 10 24 38 PM" src="https://github.com/aku019/Chat-App-Backend/assets/39730533/1235d289-746e-4921-825c-b2384a2c7204">
-<img width="922" alt="Screenshot 2023-10-01 at 10 24 00 PM" src="https://github.com/aku019/Chat-App-Backend/assets/39730533/359aaa94-f068-46fc-97bd-78f06c1383da">
+<img width="922" alt="Screenshot 2023-10-01 at 10 24 38 PM" src="https://github.com/aku019/Chat-App-Backend/assets/39730533/65f7a257-77dc-4f83-a125-9d5f788e5c46">
+<img width="922" alt="Screenshot 2023-10-01 at 10 24 00 PM" src="https://github.com/aku019/Chat-App-Backend/assets/39730533/75ddbf7b-e5e7-4534-bd08-ed191ed6eaed">
+<img width="1436" alt="Screenshot 2023-10-01 at 10 23 27 PM" src="https://github.com/aku019/Chat-App-Backend/assets/39730533/fef09756-4130-4362-aff7-85785bb806d1">
 
-<img width="1436" alt="Screenshot 2023-10-01 at 10 22 26 PM" src="https://github.com/aku019/Chat-App-Backend/assets/39730533/7b67da59-d7e2-4873-968e-c1637f77826b">
-
-<img width="1436" alt="Screenshot 2023-10-01 at 10 23 27 PM" src="https://github.com/aku019/Chat-App-Backend/assets/39730533/44ed7004-7ff0-4690-85be-81f809cb49f4">
-
-
+<img width="1436" alt="Screenshot 2023-10-01 at 10 22 26 PM" src="https://github.com/aku019/Chat-App-Backend/assets/39730533/dcd2edea-34a7-4e96-aeaa-06cc11ff2e94">
 
